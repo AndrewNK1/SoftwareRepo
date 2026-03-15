@@ -3,4 +3,4 @@ function logNameFromJson(input) {
   console.log(data.name);
 }
 
-logNameFromJson({ name: "Andrew" });
+logNameFromJson({ name: "pierre_sallam_seif" });
